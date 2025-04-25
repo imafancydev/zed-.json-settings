@@ -1,0 +1,21 @@
+{
+  // Theme
+  "theme": "Tokyo Night",
+
+  // Assistant
+  "show_edit_predictions": false,
+
+  // Font
+  "ui_font_size": 13,
+  "ui_font_family": "JetBrainsMono Nerd Font",
+  "buffer_font_size": 19,
+  "buffer_font_family": "JetBrainsMono Nerd Font",
+
+  // Editor
+  "project_panel": {
+    "dock": "right"
+  },
+  "autosave": "on_focus_change",
+  "auto_update": true,
+  "tab_bar": { "show": false }
+}
