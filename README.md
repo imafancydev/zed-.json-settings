@@ -34,8 +34,7 @@ This repository contains my personalized settings for Zed IDE. These settings ar
 ## Preview
 Here’s a preview of the theme and font combination in action:
 
-![Tokyo Night Theme Preview](https://raw.githubusercontent.com/imafancydev/zed-.json-settings/refs/heads/main/Captura%20de%20ecr%C3%A3%20de%202025-04-25%2001-11-45.png)  
-*Note: Replace `preview.png` with a screenshot of your IDE setup.*
+![Tokyo Night Theme Preview](https://raw.githubusercontent.com/imafancydev/zed-.json-settings/refs/heads/main/Captura%20de%20ecr%C3%A3%20de%202025-04-25%2001-11-45.png)
 
 ## Feedback
 Feel free to open an issue or submit a pull request if you have suggestions for improving these settings.
